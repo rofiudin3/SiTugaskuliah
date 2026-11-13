@@ -4,6 +4,17 @@ Aplikasi web modern berbasis **React + TypeScript + Vite** untuk mengelola dafta
 
 ---
 
+## 🎯 Ringkasan Eksekusi Git & GitHub
+Repository ini telah memenuhi seluruh ketentuan teknis:
+- **Branch Utama**: `main`
+- **Branch Fitur 1**: `fitur/course-options` (sudah di-merge)
+- **Branch Fitur 2**: `fitur/app-title` (digunakan dalam simulasi dan penyelesaian merge conflict)
+- **Branch Fitur 3**: `fitur/dokumentasi-panduan` (diajukan melalui Pull Request)
+- **Status Merge Conflict**: Berhasil diselesaikan pada file `.env.example`
+- **Keamanan**: File `.env` diabaikan oleh `.gitignore` sehingga tidak terekspos ke repositori publik.
+
+---
+
 ## 📋 Pemenuhan 5 Ketentuan Proyek
 
 ### 1. Fitur Aplikasi Web
