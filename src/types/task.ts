@@ -99,6 +99,8 @@ export const DEFAULT_COURSES: string[] = [
   'Rekayasa Perangkat Lunak',
   'Kecerdasan Buatan',
   'Jaringan Komputer',
+  'Keamanan Siber',
+  'Sistem Operasi',
 ];
 
 /** Contoh penggunaan Array bertipe TaskPriority[] */
